@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {background:#5F036B; font-size:10px; }
+
+img {padding-top: 190px; margin-left: 650px;margin-bottom:20px; width: 15%;}
+
+a {	color:#F5F5F5; 
+	font-size: 40px; 
+	font-style:normal; 
+	margin-left: 688px;
+	font-family:"rainyhearts";
+	font-weight: normal;
+	line-height: 100%; 
+	text-indent: 0;
+	text-decoration: none;
+	text-align: left;}
